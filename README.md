@@ -1,6 +1,6 @@
 **Handwriting Recognition with OCR (Optical character recognition)**
 
-**Recognize numbers and Uppercase letter only:**
+**Recognize numbers and Uppercase letters only:**
 
 **'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'**
 
